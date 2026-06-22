@@ -48,6 +48,4 @@ Samarth Mhamane
 
 Aspiring Data Analyst | SQL | Python | Power BI
 <img width="1045" height="620" alt="Screenshot 2026-06-22 200315" src="https://github.com/user-attachments/assets/536cfcd4-da35-483c-98e0-14661207dc48" />
-
-
 <img width="1043" height="618" alt="Screenshot 2026-06-22 200447" src="https://github.com/user-attachments/assets/22283299-a00f-4b7d-b583-7f7f184b732d" />
